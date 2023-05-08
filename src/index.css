@@ -1,0 +1,15 @@
+header{
+  background-color: darkmagenta;
+  width: 100%;
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a{
+  color: aliceblue;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin: 40px;
+}
